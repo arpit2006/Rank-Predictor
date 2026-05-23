@@ -12,6 +12,7 @@ Rank Predictor uses regression-based Machine Learning models to estimate a stude
 
 The project was built to:
 - understand regression algorithms
+- Data visualization
 - practice preprocessing pipelines
 - implement real-world ML workflows
 - deploy an ML model using Streamlit
